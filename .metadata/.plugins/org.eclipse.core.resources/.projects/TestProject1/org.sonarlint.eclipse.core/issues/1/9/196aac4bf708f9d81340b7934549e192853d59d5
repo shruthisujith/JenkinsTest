@@ -1,0 +1,7 @@
+
+–squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "string".(éà×¼üÿÿÿÿ8ÛúÎÈÊ-H)RMINORZ
+CODE_SMELL
+–squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8‰ØÈÈÊ-H%RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬é8ÛúÎÈÊ-H*RMAJORZ
+CODE_SMELL
